@@ -7,7 +7,7 @@
 
 
 Selenium предоставляет следующие методы для поиска элемента на странице:
-● find_element_by_id — поиск по id
+/● find_element_by_id — поиск по id
 ● find_element_by_name — поиск по имени
 ● find_element_by_xpath — поиск по xpath-локатору
 ● find_element_by_link_text — поиск по тексту ссылки
