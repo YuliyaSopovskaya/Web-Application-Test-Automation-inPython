@@ -1,15 +1,16 @@
+# Проверка высоты окна в форме авторизации
+
 + должно быть venv окружение
 + скачать и установить драйвер для хрома
 + положить chromedriver в основную папку
 + установить селениум пакет
 
-+ желательно все делать на пайчарме
 
 
 Selenium предоставляет следующие методы для поиска элемента на странице:
-/● find_element_by_id — поиск по id
-● find_element_by_name — поиск по имени
-● find_element_by_xpath — поиск по xpath-локатору
+#● find_element_by_id — поиск по id
+#● find_element_by_name — поиск по имени
+#● find_element_by_xpath — поиск по xpath-локатору
 ● find_element_by_link_text — поиск по тексту ссылки
 ● find_element_by_partial_link_text — поиск по части текста ссылки
 ● find_element_by_tag_name — поиск по имени тега
